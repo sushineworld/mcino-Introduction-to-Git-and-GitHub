@@ -1,0 +1,15 @@
+Command:
+curl.exe -s https://api.github.com/repos/sushineworld/mcino-Introduction-to-Git-and-GitHub
+
+Terminal output (relevant lines from the actual response):
+
+{
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "sushineworld/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  }
+}
